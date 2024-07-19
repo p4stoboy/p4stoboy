@@ -1,4 +1,16 @@
-## Hi there 👋
+Oscar Harris
+---
+- generative art
+- shaders
+- games
+- other weird software
+
+<p float="left" align="middle">
+<img src = "1719217961178.png" width = "33%">
+<img src = "1720860329553.png" width = "33%">
+<img src = "1718415847838.png" width = "33%">
+  Fairies 2024 / Typescript|WebGL
+</p>
 
 <!--
 **p4stoboy/p4stoboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
