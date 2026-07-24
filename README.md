@@ -1,7 +1,5 @@
 Oscar Harris
 ---
-[appliedtaste.org](https://appliedtaste.org)
----
 - generative art
 - shaders
 - games
