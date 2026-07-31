@@ -1,5 +1,12 @@
 Oscar Harris
 ---
+https://dontbeafuckwit.lol
+
+https://wafu.p4stoboy.dev
+
+https://p4stoboy.art
+
+---
 - generative art
 - shaders
 - games
